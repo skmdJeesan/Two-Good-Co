@@ -1,5 +1,5 @@
 # Two Good Co.
-**A responsive clone of the award-winning Two Good Co website**, originally featured as Site of the Day on Awwwards and recognized for its animation, storytelling, and social impact :contentReference[oaicite:1]{index=1}.
+**A responsive clone of the award-winning Two Good Co website**, originally featured as Site of the Day on Awwwards and recognized for its animation, storytelling, and social impact.
 
 This project recreates the **homepage UI** (and optionally additional pages) using HTML, CSS, JavaScript, and animation libraries to capture the original’s feel and interactivity.
 
